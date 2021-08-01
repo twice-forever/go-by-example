@@ -1,6 +1,8 @@
 package main
 
-import "go-by-example/example"
+import (
+	"go-by-example/example"
+)
 
 func main() {
 	example.HelloWorld()
