@@ -8,4 +8,5 @@ func main() {
 	example.HelloWorld()
 	example.Values()
 	example.Variables()
+	example.Constants()
 }
