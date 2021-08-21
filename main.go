@@ -9,4 +9,7 @@ func main() {
 	example.Values()
 	example.Variables()
 	example.Constants()
+	example.For()
+	example.IfElse()
+	example.Switch()
 }
