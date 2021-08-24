@@ -13,4 +13,5 @@ func main() {
 	example.IfElse()
 	example.Switch()
 	example.Arrays()
+	example.Maps()
 }
