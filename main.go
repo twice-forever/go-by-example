@@ -15,4 +15,5 @@ func main() {
 	example.Arrays()
 	example.Maps()
 	example.Range()
+	example.Functions()
 }
