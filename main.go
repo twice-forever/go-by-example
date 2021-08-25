@@ -14,4 +14,5 @@ func main() {
 	example.Switch()
 	example.Arrays()
 	example.Maps()
+	example.Range()
 }
