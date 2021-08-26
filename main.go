@@ -18,4 +18,5 @@ func main() {
 	example.Functions()
 	example.MultipleReturnValues()
 	example.VariadicFunction()
+	example.Closures()
 }
