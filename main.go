@@ -16,4 +16,5 @@ func main() {
 	example.Maps()
 	example.Range()
 	example.Functions()
+	example.MultipleReturnValues()
 }
