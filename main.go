@@ -17,4 +17,5 @@ func main() {
 	example.Range()
 	example.Functions()
 	example.MultipleReturnValues()
+	example.VariadicFunction()
 }
