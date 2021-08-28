@@ -20,4 +20,6 @@ func main() {
 	example.VariadicFunction()
 	example.Closures()
 	example.Recursion()
+	example.Pointers()
+	example.Structs()
 }
