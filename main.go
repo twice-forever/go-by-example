@@ -22,4 +22,6 @@ func main() {
 	example.Recursion()
 	example.Pointers()
 	example.Structs()
+	example.Methods()
+	example.Interfaces()
 }
