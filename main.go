@@ -26,4 +26,6 @@ func main() {
 	example.Interfaces()
 	example.Errors()
 	example.Goroutine()
+	example.Channels()
+	example.ChannelSync()
 }
