@@ -28,4 +28,6 @@ func main() {
 	example.Goroutine()
 	example.Channels()
 	example.ChannelSync()
+	example.Select()
+	example.Timeouts()
 }
