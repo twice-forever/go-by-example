@@ -30,4 +30,5 @@ func main() {
 	example.ChannelSync()
 	example.Select()
 	example.Timeouts()
+	example.NonBlockChannel()
 }
