@@ -31,4 +31,5 @@ func main() {
 	example.Select()
 	example.Timeouts()
 	example.NonBlockChannel()
+	example.ClosingChannel()
 }
