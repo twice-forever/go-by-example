@@ -33,4 +33,5 @@ func main() {
 	example.NonBlockChannel()
 	example.ClosingChannel()
 	example.RangeOverChannel()
+	example.Timer()
 }
