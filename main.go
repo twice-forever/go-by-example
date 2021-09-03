@@ -34,4 +34,5 @@ func main() {
 	example.ClosingChannel()
 	example.RangeOverChannel()
 	example.Timer()
+	example.Ticker()
 }
