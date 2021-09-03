@@ -35,4 +35,6 @@ func main() {
 	example.RangeOverChannel()
 	example.Timer()
 	example.Ticker()
+	example.WorkPool()
+	example.WaitGroup()
 }
