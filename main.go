@@ -38,4 +38,5 @@ func main() {
 	example.WorkPool()
 	example.WaitGroup()
 	example.RateLimiting()
+	example.AtomicCounter()
 }
