@@ -37,4 +37,5 @@ func main() {
 	example.Ticker()
 	example.WorkPool()
 	example.WaitGroup()
+	example.RateLimiting()
 }
