@@ -39,4 +39,7 @@ func main() {
 	example.WaitGroup()
 	example.RateLimiting()
 	example.AtomicCounter()
+	example.Mutexe()
+	example.StatefulGoroutine()
+	example.Sorting()
 }
