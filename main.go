@@ -42,4 +42,5 @@ func main() {
 	example.Mutexe()
 	example.StatefulGoroutine()
 	example.Sorting()
+	example.SortByFunc()
 }
