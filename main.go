@@ -43,4 +43,6 @@ func main() {
 	example.StatefulGoroutine()
 	example.Sorting()
 	example.SortByFunc()
+	// example.Panic()
+	// example.Defer()
 }
