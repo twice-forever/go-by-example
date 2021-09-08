@@ -46,4 +46,5 @@ func main() {
 	// example.Panic()
 	// example.Defer()
 	example.CollectionFunc()
+	example.StringFunc()
 }
