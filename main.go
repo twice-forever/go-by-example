@@ -47,4 +47,5 @@ func main() {
 	// example.Defer()
 	example.CollectionFunc()
 	example.StringFunc()
+	example.StringFormat()
 }
