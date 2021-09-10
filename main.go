@@ -48,4 +48,5 @@ func main() {
 	example.CollectionFunc()
 	example.StringFunc()
 	example.StringFormat()
+	example.RegularExpression()
 }
