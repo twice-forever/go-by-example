@@ -49,5 +49,6 @@ func main() {
 	// example.StringFunc()
 	// example.StringFormat()
 	// example.RegularExpression()
-	example.Json()
+	// example.Json()
+	example.XML()
 }
