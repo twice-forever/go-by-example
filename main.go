@@ -50,5 +50,6 @@ func main() {
 	// example.StringFormat()
 	// example.RegularExpression()
 	// example.Json()
-	example.XML()
+	// example.XML()
+	example.Time()
 }
