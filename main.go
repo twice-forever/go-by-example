@@ -50,5 +50,6 @@ func main() {
 	// example.Json()
 	// example.XML()
 	// example.Time()
-	example.Epoch()
+	// example.Epoch()
+	example.TimeFormatting()
 }
