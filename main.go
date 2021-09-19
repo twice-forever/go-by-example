@@ -1,8 +1,6 @@
 package main
 
-import (
-	"go-by-example/example"
-)
+import "go-by-example/example"
 
 func main() {
 	// example.HelloWorld()
@@ -51,5 +49,6 @@ func main() {
 	// example.RegularExpression()
 	// example.Json()
 	// example.XML()
-	example.Time()
+	// example.Time()
+	example.Epoch()
 }
