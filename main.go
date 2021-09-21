@@ -53,5 +53,6 @@ func main() {
 	// example.Epoch()
 	// example.TimeFormatting()
 	// example.RandomNum()
-	example.NumberParse()
+	// example.NumberParse()
+	example.URLParse()
 }
