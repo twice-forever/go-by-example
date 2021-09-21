@@ -54,5 +54,6 @@ func main() {
 	// example.TimeFormatting()
 	// example.RandomNum()
 	// example.NumberParse()
-	example.URLParse()
+	// example.URLParse()
+	example.Sha1Hashes()
 }
